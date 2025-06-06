@@ -33,11 +33,6 @@
 #     print("queda", botella)
 
    
-print("Salio gta6")
-
-
-
-if gta6==1:
-    print
+#
 
 
